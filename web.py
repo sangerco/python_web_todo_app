@@ -11,7 +11,7 @@ def add_todo():
 
 
 st.title("Your Todo App")
-st.subheader("This is my todo app")
+st.subheader("Use this list to track your todos.")
 st.write("This app is to enhance your <b>productivity</b>.",
          unsafe_allow_html=True)
 
